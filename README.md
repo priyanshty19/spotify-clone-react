@@ -1,4 +1,4 @@
-| <div align="center">Feature</div>        | <div align="center">Screen</div>           | <<div align="center">>Description</div> |
+| <div align="center">Feature</div>        | <div align="center">Screen</div>           | <div align="center">Description</div> |
 | ------------- |:-------------:| ----------: |
 | <div align="center">Startup Page of Application</div>  | ![1](https://user-images.githubusercontent.com/53999267/122666238-c6ddfa00-d1c9-11eb-9ec5-474627db6bdd.PNG) | <div align="center">This is the first Page of application , It consists of a login button for the application</div> |
 | <div align="center">Authentication Page of Application</div> | ![2](https://user-images.githubusercontent.com/53999267/122666242-c80f2700-d1c9-11eb-9af1-83935de0d39a.PNG) | <div align="center">This page contains the Spotify Authentication through which user can get authorised access to the clone application</div> |
